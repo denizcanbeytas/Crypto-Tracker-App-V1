@@ -4,6 +4,7 @@
 
 - Develop with SwiftUI
 - Api pulled from CoinGecko site.
+- The first 250 coins in MarcetCup are listed.
 - Cryptocurrency values are up to date.
 - The image was developed by the project owner using Canva. It cannot be used without permission.
 - It is version 1.1. It will continue to be developed.
