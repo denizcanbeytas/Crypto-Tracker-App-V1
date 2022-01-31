@@ -1,5 +1,6 @@
-# CryptoTrackerApp-V1
- <h4> About Project</h4> 
+# ![](https://img.shields.io/badge/Crypto_Tracker_App_V1-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+![](https://img.shields.io/badge/About_Project-FA7343?style=for-the-badge&logo=s&logoColor=white)
 
 - Develop with SwiftUI
 - Api pulled from CoinGecko site.
@@ -7,7 +8,7 @@
 - The image was developed by the project owner using Canva. It cannot be used without permission.
 - It is version 1.1. It will continue to be developed.
 #
-<h4> Things To Do</h4> 
+![](https://img.shields.io/badge/Things_To_Do-FA7343?style=for-the-badge&logo=s&logoColor=white)
 
 - LoginScreen will be designed.
 - Registered users will be kept in a data created using firebase.
