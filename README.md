@@ -14,6 +14,8 @@
 - [ ] LoginScreen will be designed.
 - [ ] Registered users will be kept in a data created using firebase.
 - [ ] A wallet will be created where cryptocurrencies can be added and deleted.
+- [ ] Pictures of coins will be added.
+- [ ] Coin search button will be added.
 #
 ![](https://img.shields.io/badge/Image_From_App-FA7343?style=for-the-badge&logo=s&logoColor=white)
  <p>
