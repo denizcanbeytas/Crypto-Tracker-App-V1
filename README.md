@@ -10,9 +10,9 @@
 #
 ![](https://img.shields.io/badge/Things_To_Do-FA7343?style=for-the-badge&logo=s&logoColor=white)
 
-- LoginScreen will be designed.
-- Registered users will be kept in a data created using firebase.
-- A wallet will be created where cryptocurrencies can be added and deleted.
+- [ ] LoginScreen will be designed.
+- [ ] Registered users will be kept in a data created using firebase.
+- [ ] A wallet will be created where cryptocurrencies can be added and deleted.
 #
 ![](https://img.shields.io/badge/Image_From_App-FA7343?style=for-the-badge&logo=s&logoColor=white)
  <p>
